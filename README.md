@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c2bsolutions
+- 👋 Hi, I am Ryan @c2bsolutions
 - 👀 I’m interested in building a strong connected consumer-to-consumer economy with blockchain and decentralized data.
 - 🌱 I’m currently learning full stack dapp development in solidity and rust to build new innovative applications using blockchain
 - 💞️ I’m looking to collaborate on an exciting web 3 project
