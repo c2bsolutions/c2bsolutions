@@ -1,7 +1,7 @@
 # About Me
 
 👋 Hi, I'm Ryan Johnson
-Founding Engineer of [Fundi Labs](fundilabs.io)
+Founding Engineer of [Fundi Labs](https://fundilabs.io)
 
 - ⛓️ I'm a Full Stack Smart Contract/Blockchain Application Engineer that is passionate about building solutions and applications that empower trust and ownership using innovative blockchain solutions.
 
