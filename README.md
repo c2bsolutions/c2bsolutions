@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I'm Ryan Johnson,
+👋 Hi, I'm Ryan,
 
 Founding Engineer of [Fundi Labs](https://fundilabs.io)
 
